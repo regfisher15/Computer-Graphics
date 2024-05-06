@@ -50,7 +50,7 @@ or
 ### `python3 -m http.server 8080`
 
 then go to link:
-### 'http:localhost:8080
+### 'http:localhost:8080'
 and click on the html file you would like to view.
 
 
